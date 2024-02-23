@@ -5,17 +5,17 @@ The basic community chat service system uses WebSocket, NestJS, and PostgreSQL d
 ## Clone source
 
 ```bash
-$ git clone git@github.com:lamxuanthinh/application-chat-basic-services.git
+git clone git@github.com:lamxuanthinh/application-chat-basic-services.git
 ```
 
 ```bash
-$ cd application-chat-basic-services
+cd application-chat-basic-services
 ```
 
 ## Running the app
 
 ```bash
-$ docker-compose up -d
+docker-compose up -d
 ```
 
 ## API Document
